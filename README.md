@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 🙌</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <!--
 **leewg97/leewg97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
