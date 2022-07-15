@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 🙌
 
 <!--
 **leewg97/leewg97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi, There🙌</h1>
----
 <h3 align="center">
    🖥️ Skills 🖥️
 </h3>
