@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome🙌&fontSize=70)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome🙌&fontSize=70)
 
 
 <h3 align="center"> 🛠Tech Stacks🛠 </h3>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
   <a href="mailto:leewg97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leewg97@gamil.com"/></a>
-</p>
+</p>-->
 
 <!--   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a> -->
 
