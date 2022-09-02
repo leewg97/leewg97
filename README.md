@@ -34,10 +34,11 @@
 
 <!--   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a> -->
 
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewg97&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--<h1 align="center">Hi there👋</h1>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewg97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi there👋</h1>
 
 **leewg97/leewg97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
