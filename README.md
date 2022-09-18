@@ -1,4 +1,6 @@
-<!--  ![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0,2,2,5,30&height=130&section=header&text=Hi!%20I'm%20Lee!&fontColor=000000&fontSize=60)
+<!--
+
+![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0,2,2,5,30&height=130&section=header&text=Hi!%20I'm%20Lee!&fontColor=000000&fontSize=60)
 
 
 <h3 align="center"> 📚Tech Stacks📚 </h3>
@@ -43,13 +45,13 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![leewg97's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewg97&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![wongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewg97&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewg97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 
-<!--
+
 
  
 
