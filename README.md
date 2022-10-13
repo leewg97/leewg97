@@ -1,5 +1,5 @@
-<!--
 
+<!--
 ![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0,2,2,5,30&height=130&section=header&text=Hi!%20I'm%20Lee!&fontColor=000000&fontSize=60)
 
 
@@ -46,7 +46,7 @@
 <div align="center">
 
 ![wongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewg97&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewg97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
@@ -55,6 +55,7 @@
 
  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewg97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
   <a href="https://www.instagram.com/perspektivismus__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a>
