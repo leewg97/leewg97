@@ -59,13 +59,15 @@
 
 
 <!--
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewg97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-  <a href="https://www.instagram.com/perspektivismus__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=leewg97)](https://github.com/ryo-ma/github-profile-trophy)
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewg97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  
+<a href="https://www.instagram.com/perspektivismus__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/"/></a>
 
+  
 -->
