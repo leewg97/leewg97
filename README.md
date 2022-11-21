@@ -1,7 +1,7 @@
  <!--
 ![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0,2,2,5,30&height=130&section=header&text=Hi!%20I'm%20Lee!&fontColor=000000&fontSize=60)
 
-
+ 
 <h3 align="center"> 📚Tech Stacks📚 </h3>
 <p align="center"> 💡Techs that I've used at least once💡 </p>
 <p align="center">
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=leewg97@naver.com"/>
   </a>
 </p>
--->
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
@@ -58,7 +58,6 @@
  
 
 
-<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=leewg97)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewg97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
