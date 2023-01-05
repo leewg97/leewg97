@@ -50,12 +50,17 @@
 <div align="center">
 
 ![wongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewg97&show_icons=true)
-
-
+ 
+ 
 </div>
 
 
   <!-- 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leewg97)](https://solved.ac/leewg97/)
+
+
+
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leewg97)](https://github.com/ryo-ma/github-profile-trophy)
