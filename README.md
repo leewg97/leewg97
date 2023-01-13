@@ -1,4 +1,4 @@
- <!--
+ <!--  
 ![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0,2,2,5,30&height=130&section=header&text=Hi!%20I'm%20Lee!&fontColor=000000&fontSize=60)
  
    
@@ -55,10 +55,10 @@
 </div>
 
 
-  <!-- 
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leewg97)](https://solved.ac/leewg97/)
 
-
+<--
 
 
 
