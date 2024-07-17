@@ -1,9 +1,12 @@
-
+<div align="center">
+<a href="https://www.credly.com/badges/1678fede-8db8-4ae4-9c9d-393c3d4c8d39/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
+</div>
  
 
-<!-- 
+<!--
+
 ![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0,2,2,5,30&height=130&section=header&text=Hi!%20I'm%20Lee!&fontColor=000000&fontSize=60)
--->
+
  
    
 <h3 align="center"> 📚Tech Stacks📚 </h3>
@@ -28,8 +31,6 @@
   <img src="https://img.shields.io/badge/Altibase-005571?style=flat-square&logo=altibase&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 </p>
-
-
 
   
 <h3 align="center"> 🛠Tools🛠 </h3>
@@ -63,8 +64,7 @@
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=leewg97@naver.com"/>
   </a>
 </p>
- 
-<!--
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
@@ -72,8 +72,8 @@
  
  
 </div>
- -->
-<!--
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leewg97)](https://solved.ac/leewg97/)
 
 
@@ -93,3 +93,4 @@
 
   
 -->
+
