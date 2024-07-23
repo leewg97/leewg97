@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=Mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Altibase-005571?style=flat-square&logo=altibase&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 </p>
@@ -44,6 +45,13 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leewg97&show_icons=true&include_all_commits=true&text_color=000000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewg97&layout=compact&text_color=000000">
+</p>
+
+
 <!--
 
 ![header](https://capsule-render.vercel.app/api?type=slice&customColorList=0,2,2,5,30&height=130&section=header&text=Hi!%20I'm%20Lee!&fontColor=000000&fontSize=60)
