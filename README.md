@@ -46,11 +46,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  
 </p>
 
+<!-- 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leewg97&show_icons=true&include_all_commits=true&text_color=000000">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewg97&layout=compact&text_color=000000">
 </p>
 
+-->
 
 <!--
 
