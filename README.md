@@ -46,6 +46,10 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  
 </p>
 
+<p align="center">
+ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leewg97" /> 
+</p>
+
 <!-- 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leewg97&show_icons=true&include_all_commits=true&text_color=000000">
