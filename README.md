@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Altibase-005571?style=flat-square&logo=altibase&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLServer-A8B9CC?style=flat-square&logo=sqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 
